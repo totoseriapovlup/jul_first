@@ -15,4 +15,3 @@ spl_autoload_register(function ($className) {
 });
 
 Router::init();
-щдорлород
